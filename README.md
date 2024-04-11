@@ -1,13 +1,17 @@
 <h1 align="center">-- Watz up! Updates to the system --</h1>
 <h3 align="center">Aye</h3>
 
-- Added "input system" from **Package Manager!**
+- Added "input system" from **Package Manager!** for the sake of convenience!
 
-- Minimized a bit of the room layouts **(might change the black box design)**
+- Minimized a bit of the room **layouts**! *(might change the black box design later on)*
 
 - Added mobile movements of **on-screen buttons!**
 
 - Fixed Elevator 1 not teleporting **the player!**
+
+- Disabled the scripts **firstElevator, secondElevator, & thirdElevator** from Elevator 1-3, leaving only **Elevator** script! *(can be enabled anytime)*
+
+- Disabled the primary **movements script** of the **Player**! *(can be enabled anytime)*
 
 <p align="left">
 </p>
