@@ -16,9 +16,8 @@
 
 
 <h3 align="center">-- Link --</h3>
-<p align="left">
-  https://www.mediafire.com/file/9j0e4pgwsfr032e/Fix+Me.rar/file
-</p>
+<p align="center">https://www.mediafire.com/file/9j0e4pgwsfr032e/Fix+Me.rar/file</h3>
+
 
 
 
