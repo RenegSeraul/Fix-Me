@@ -1,6 +1,8 @@
 using JetBrains.Annotations;
+using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq.Expressions;
 using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -10,11 +12,11 @@ public class Level2 : MonoBehaviour
 {
 
     public static bool clickedOnce = false;
-    Text _text;
+    //Text _text;
     public TMP_Text _tmpProText;
     public GameObject subtitle;
     public GameObject elevator;
-    string writer;
+    //string writer;
 
     public Animator animator;
     public Animator _animator;
@@ -26,15 +28,23 @@ public class Level2 : MonoBehaviour
     AudioManager audioManager;
 
     public Button btnInteract;
-    private void Start()
-    {
-        btnInteract.interactable = true;
-    }
 
     private void Awake()
     {
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
-        animator.SetTrigger("DialogueIn");
+        try 
+        {
+            animator.SetTrigger("DialogueIn");
+        }
+        catch (UnassignedReferenceException ex)
+        {
+            Console.WriteLine($"UnAssigned Ref exce.: {ex}");
+        }
+    }
+
+    private void Start()
+    {
+        //btnInteract.interactable = true;
     }
 
     

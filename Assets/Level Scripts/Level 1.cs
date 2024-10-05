@@ -8,9 +8,9 @@ using UnityEngine.SceneManagement;
 public class Level1 : MonoBehaviour
 {
 
-    Text _text;
+    //Text _text;
     public TMP_Text _tmpProText;
-    string writer;
+    //string writer;
 
     public Animator animator;
     public Animator _animator;
@@ -68,14 +68,14 @@ public class Level1 : MonoBehaviour
 
     }
 
-    public void onElevatorClick()
-    {
-        if (isPlayerClose.playerisClose)
-        {
-            SceneManager.LoadSceneAsync("Level2");
-        }
+    // public void onElevatorClick()
+    // {
+    //     if (isPlayerClose.playerisClose)
+    //     {
+    //         SceneManager.LoadSceneAsync("Level2");
+    //     }
         
-    }
+    // }
     
     IEnumerator NextInstruction()
     {
