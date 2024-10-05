@@ -11,6 +11,29 @@
 
 - Not implemented a connection to Firebase as of yet!
 
+--**Latest Changes**--
+- The game now totally runs Level 1 - 3
+
+- Resolutions now **adjusts** according to **mobile** or **PC** screens
+
+- **Roll backed** newly added **input system** *(since there was already one that I made ages ago... woops)*
+
+- Tidied up the **designs** a bit inside **Main** scene with **extra buttons**! 2.0
+
+- **Fixed** an issue where you can't be sent to the next levels (due to the build settings—the scenes weren't included in dawg!)
+
+- I now have this game **built to my mobile**, which feels now playable and can be **showcased** at least!
+
+<h3 align="center">== Things that was turned into a prefab ==</h3>
+- Player
+- Buttons
+- UI
+
+<h3 align="center">**== Remaining bugs ==**</h3>
+- Somehow the speed of the player is slowest during Unity Editor testing (excluding the fact its speed stays consistent in a build version)
+
+- At some point the interact buttons can be disabled permanently in one particular scenes due to triggering the collision of Elevators
+
 
 <h3 align="center">-- Link --</h3>
 <p align="center">N\A</h3>
