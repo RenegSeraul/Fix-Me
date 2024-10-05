@@ -24,12 +24,12 @@
 
 - I now have this game **built to my mobile**, which feels now playable and can be **showcased** at least!
 
-<h3 align="center">== Things that was turned into a prefab ==</h3>
+<h3 align="left">== Things that was turned into a prefab ==</h3>
 - Player
 - Buttons
 - UI
 
-<h3 align="center">**== Remaining bugs ==**</h3>
+<h3 align="left">**== Remaining bugs ==**</h3>
 - Somehow the speed of the player is slowest during Unity Editor testing (excluding the fact its speed stays consistent in a build version)
 
 - At some point the interact buttons can be disabled permanently in one particular scenes due to triggering the collision of Elevators
