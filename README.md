@@ -3,13 +3,13 @@
 
 - Added the **DialogueOut** on Level 3 scene.
 
-- Changed movement input to the robust "input system".
+- Changed **movement input** to the robust **"input system"**.
 
-- Tidied up the designs a bit inside Main scene with extra buttons!
+- Tidied up the **designs** a bit inside **Main** scene with **extra buttons**!
 
-- Turned the "Player" into a prefab for future customization
+- Turned the **"Player"** into a **prefab** for future **customization**
 
-- Not implemented a cnnection to Firebase as of yet!
+- Not implemented a connection to Firebase as of yet!
 
 
 <h3 align="center">-- Link --</h3>
