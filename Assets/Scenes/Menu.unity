@@ -4136,11 +4136,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4946216638417420784, guid: 04d15c3f11c6b5b4486a45786f55dd61, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4946216638417420784, guid: 04d15c3f11c6b5b4486a45786f55dd61, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5544486272244705860, guid: 04d15c3f11c6b5b4486a45786f55dd61, type: 3}
       propertyPath: m_VertexColorAlwaysGammaSpace
@@ -4148,7 +4148,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5544486272244705860, guid: 04d15c3f11c6b5b4486a45786f55dd61, type: 3}
       propertyPath: m_AdditionalShaderChannelsFlag
-      value: 1
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 7884845009011103911, guid: 04d15c3f11c6b5b4486a45786f55dd61, type: 3}
       propertyPath: m_AnchorMax.x
@@ -4156,7 +4156,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7884845009011103911, guid: 04d15c3f11c6b5b4486a45786f55dd61, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7884845009011103911, guid: 04d15c3f11c6b5b4486a45786f55dd61, type: 3}
       propertyPath: m_AnchorMin.x
