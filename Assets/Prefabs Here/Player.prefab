@@ -190,12 +190,12 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2694423026039511187}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 11589035954335346be8ac3f78ce1faf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speedz: 1000
+  speedz: 280
   bodeh: {fileID: 3456073859208429127}
   animatorist: {fileID: 6684384600473890907}
 --- !u!114 &8291557631617746852
@@ -205,7 +205,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2694423026039511187}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
   m_Name: 
@@ -279,6 +279,10 @@ MonoBehaviour:
       m_Calls: []
     m_ActionId: e7511279-a7d1-4257-9a40-b84fb21e25a3
     m_ActionName: UI/TrackedDeviceOrientation
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 4ea6608d-d1fe-42ae-b3a5-d00ea20a758b
+    m_ActionName: Player/Movit[/Keyboard/leftArrow,/Keyboard/rightArrow,/Keyboard/a,/Keyboard/d]
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
   m_DefaultActionMap: Player
@@ -291,7 +295,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2694423026039511187}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7a1fe1dd2c04bb445935284d3463a7f9, type: 3}
   m_Name: 

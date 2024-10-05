@@ -54,6 +54,21 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    public void LeftInp()
+    {
+        directionz = -1;
+    }
+    public void RightInp()
+    {
+        directionz = 1;
+    }
+    public void ButtonUp()
+    {
+        // -- Stop --
+        directionz = 0;
+    }
+
+
     void flippy()
     {
         isFacingRoight = !isFacingRoight; // --| if it is false, return true, & vice versa |--

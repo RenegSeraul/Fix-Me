@@ -83,8 +83,6 @@ public class isPlayerClose : MonoBehaviour
                 btnInteract.interactable = false;
             }
         }
-        
-
     }
 
     public void OnClick()
