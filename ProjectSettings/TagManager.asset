@@ -7,11 +7,16 @@ TagManager:
   - Elevator1
   - Elevator2
   - Elevator3
+  - Floor1
+  - Floor2
+  - Floor3
+  - Wirez
+  - Audio
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - FixMe
   - Water
   - UI
   - Stone
@@ -19,9 +24,9 @@ TagManager:
   - Floor
   - Background
   - Player
-  - 
-  - 
-  - 
+  - Floor 1
+  - Floor 2
+  - Floor 3
   - 
   - 
   - 
@@ -52,4 +57,10 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 511786503
+    locked: 0
+  - name: FixMe
+    uniqueID: 2412697601
+    locked: 0
+  - name: Foreground
+    uniqueID: 2219850313
     locked: 0

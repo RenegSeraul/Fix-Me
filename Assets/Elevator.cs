@@ -1,7 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditorInternal;
+//using UnityEditorInternal;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Elevator : MonoBehaviour
 {
@@ -16,9 +17,12 @@ public class Elevator : MonoBehaviour
 
     public Animator transition;
 
+    public Button btnInteract;
+
     // Start is called before the first frame update
     void Start()
     {
+        btnInteract.interactable = false;
         _animator = GetComponent<Animator>();
     }
 
@@ -58,9 +62,39 @@ public class Elevator : MonoBehaviour
     {
         // updating the distance from player, eventually triggering the animation
         distance = Vector3.Distance(transform.position, _player.transform.position);
-        // catch input if playerIsClose is true
 
+        //SecondUpdate();
+        
+        // catch input if playerIsClose is true
+        /*if (!playerIsClose)
+        {
+            if (elevatorPanel.activeSelf)
+            {
+                elevatorPanel.SetActive(false);
+            }
+            
+        }
+        */
+        
     }
+    // public void SecondUpdate()
+    // {
+        
+    //     if (!playerIsClose)
+    //     {
+    //         btnExecute.interactable = false;
+    //         btnInteract.interactable = false;
+
+    //     }
+
+    //     if (playerIsClose) 
+    //         {
+    //         btnExecute.interactable = true;
+    //         btnInteract.interactable = true;
+    //     } 
+
+
+    // }
 
     public void OnClick()
     {

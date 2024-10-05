@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -9,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
     // --| Movement variables |--
     PlayerControls controlz;
     float directionz = 0; // --| This will get the player's input of left/right |--
-    public float speedz = 400;
+    public float speedz = 250;
     public Rigidbody2D bodeh;
 
     // --| Animation variables |--

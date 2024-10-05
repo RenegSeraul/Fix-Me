@@ -1,0 +1,1636 @@
+fileFormatVersion: 2
+guid: 006a8ba00dbc404438dd0b45dbb2b9f0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IoTs (off)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd91279efd616eb40a680ffd51e192ed
+      internalID: 1945170037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 145
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daf44a497b61a04fbf4fe3fa236c012
+      internalID: 849365765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 145
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16142874e0d91345b485583257e89e4
+      internalID: 978563793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 145
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d2811a5ca38964e806c1e9f579e679
+      internalID: -302138494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 145
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623a96453b37db049ab682df23bb53cc
+      internalID: -718444702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_5
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 145
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787b14f3b46527449beba304243f976c
+      internalID: 1944438167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_6
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 145
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d763d551ed8234ab4d784d03fb21b0
+      internalID: -1342143218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_7
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 145
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c6cfea57a0ee345a81702b91210b50
+      internalID: 340901632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_8
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 145
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fa30bd9736bad418a76f11bdc432d3
+      internalID: 1062895968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_9
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 145
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28caf0793cf8f3c4ba4f2710c1db00de
+      internalID: -684451638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_10
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 145
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de48fc4b181fe064bba7c23a7f724932
+      internalID: -42629952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_11
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 145
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c010bdd40bd94468360e2c92965954
+      internalID: 1093328975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_12
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 145
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7476ab9493970418adcc07e30d9e00
+      internalID: -1583773306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_13
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 145
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b83d00c63a12c84eaf6f567e29d92af
+      internalID: -1470279643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_14
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 145
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac2f54f06804a54198fc226a4c6cc1c
+      internalID: -290489262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_15
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 145
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e9f69b5c8edbd4f9c0b2cb98293d06
+      internalID: -238915724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_16
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 145
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2eaa4853b3bb54198b947d1e913126
+      internalID: 1815331081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_17
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 145
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a5c2ea83906084fba3dae3e612cc3a
+      internalID: -1737648221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_18
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 145
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8db48b31f8c5934a9eef2d0d893c63e
+      internalID: -1593399203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_19
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 145
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee3d61809cd7ea42aea8bfefc57d316
+      internalID: -466419119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08dc5534e6830b48aaf17b0f4bfd4d2
+      internalID: -234309697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f91fc349e66b9a40bdac961fdd892ec
+      internalID: -643765213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 97
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba44ca482353aa498347f74806c9f72
+      internalID: 420060707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 97
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbac9c67c09b138468a33a34cab13f9f
+      internalID: -308111459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 97
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8330ed5092bef564aaa59b138aa46d5d
+      internalID: -1162440189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_25
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 97
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ecb42e1c5add94cb53560f5a3765f8
+      internalID: 249759561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_26
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 97
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f61ac31ef1be17499c7ec748fa66812
+      internalID: 2009468854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_27
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 97
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58f27c2a781bab43ab9856a5e245abd
+      internalID: -1838872687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_28
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 97
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24aaba238471d5d40aa7eac96c0e6699
+      internalID: -1746381308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_29
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 97
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297866774bb4a3b41935a5dd5771c233
+      internalID: -183166690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_30
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 97
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d1c9ce04190af49baca842d3d39525
+      internalID: 1469575355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_31
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 97
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3e57336e3ef42428550c9fdba5bc2b
+      internalID: -78230822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_32
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 97
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f805560896aa7c7409a2724ac44c1dbd
+      internalID: -1700040250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_33
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 97
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df29768c4a66824e98ffb96c4d71bd2
+      internalID: 417196862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_34
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 97
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66afda9c74390c148815ff0c2d80c15c
+      internalID: 177733867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_35
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 97
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1394504810134084b852229e3453db53
+      internalID: 618031448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_36
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 97
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1eb2136ccea13f48869d2e6d90c0e00
+      internalID: -1878508449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_37
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 97
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da107f021cbbec4da88fc4adf023a21
+      internalID: -47239531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_38
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 97
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38520bcf6b64b64c9f75691571a660b
+      internalID: -1808781216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_39
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 97
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adfba11b25a33d4e85f0ed49ae2d057
+      internalID: -942935908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfed9c58389dc9c4ab107636d2e48340
+      internalID: -785148856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 62
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f790b26cc20aee459d78cb34be6a4eb
+      internalID: 354880514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_42
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 39
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ea908e0be79df46bf12d79a2f3ae7c
+      internalID: 1036065616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_43
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 62
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecd2b19776a8b9409b02c32a160c3d4
+      internalID: -1500432546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_44
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 62
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8669c90fef53cb44989b02a27cc1744e
+      internalID: 133980172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_45
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 39
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35d09e599b25974f84b697ad0afb898
+      internalID: -1362221106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_46
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 62
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028ec943bd5dd58419e99166ebd8125d
+      internalID: 1132713704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_47
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 62
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b24de925463354da4bfa1fa695af5e
+      internalID: 469230091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_48
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 39
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43ba78bc521d0a438c34903515bf8c6
+      internalID: -41978511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_49
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 62
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66118bc997ecd4a45bd78aed0b32328b
+      internalID: -2136870794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_50
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 62
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d298411fc6e5ca0449f81faf52b4a8e9
+      internalID: -1535284652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_51
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 39
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac99928afde8be4ba828e87b3c9cc34
+      internalID: 1850737841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd52ada7d9df4714687c01f142230f87
+      internalID: 1583437512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_53
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce51ae886139c942af4d2ea241a59fc
+      internalID: 362339143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_54
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647d4b480232b8f4b8b2399f9bcde58d
+      internalID: 544013952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_55
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453813a29f137744e9b30c857ba5a7b7
+      internalID: -1455282708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_56
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e746a7da8ca1cb4ca16f262a2e0dc48
+      internalID: -931542311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_57
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00cc6d97bf15e449a074dcb950be4d5
+      internalID: -1102882896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_58
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 0
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464250730e6f1884a942b5bf0c1983ca
+      internalID: -1559070426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_59
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8150b7d37bf874145b66b96e5196662b
+      internalID: -241298453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_60
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387d716dc374b3e43961fe8b25e53f74
+      internalID: 1546615694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_61
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 0
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bec62085a1b0d942acf9844af87295c
+      internalID: 1588286405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_62
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 0
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb9428a7798f9d42a0adab9bb1cc2b8
+      internalID: 1159540326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_63
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6fe982f175a644a945b6918c62e842
+      internalID: -1009302716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_64
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 0
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0afa3c37d116044f8d8b4542241228c
+      internalID: -1338997788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_65
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 0
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea366a8242ae534c8c0860fb4b13cd5
+      internalID: -1817200003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_66
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 0
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57a7218ccd4e2b4e90bacfa89792e38
+      internalID: -607538956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IoTs (off)_67
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28098f629dfc1824facc492f90241a71
+      internalID: 508864161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IoTs (off)_0: 1945170037
+      IoTs (off)_1: 849365765
+      IoTs (off)_10: -42629952
+      IoTs (off)_11: 1093328975
+      IoTs (off)_12: -1583773306
+      IoTs (off)_13: -1470279643
+      IoTs (off)_14: -290489262
+      IoTs (off)_15: -238915724
+      IoTs (off)_16: 1815331081
+      IoTs (off)_17: -1737648221
+      IoTs (off)_18: -1593399203
+      IoTs (off)_19: -466419119
+      IoTs (off)_2: 978563793
+      IoTs (off)_20: -234309697
+      IoTs (off)_21: -643765213
+      IoTs (off)_22: 420060707
+      IoTs (off)_23: -308111459
+      IoTs (off)_24: -1162440189
+      IoTs (off)_25: 249759561
+      IoTs (off)_26: 2009468854
+      IoTs (off)_27: -1838872687
+      IoTs (off)_28: -1746381308
+      IoTs (off)_29: -183166690
+      IoTs (off)_3: -302138494
+      IoTs (off)_30: 1469575355
+      IoTs (off)_31: -78230822
+      IoTs (off)_32: -1700040250
+      IoTs (off)_33: 417196862
+      IoTs (off)_34: 177733867
+      IoTs (off)_35: 618031448
+      IoTs (off)_36: -1878508449
+      IoTs (off)_37: -47239531
+      IoTs (off)_38: -1808781216
+      IoTs (off)_39: -942935908
+      IoTs (off)_4: -718444702
+      IoTs (off)_40: -785148856
+      IoTs (off)_41: 354880514
+      IoTs (off)_42: 1036065616
+      IoTs (off)_43: -1500432546
+      IoTs (off)_44: 133980172
+      IoTs (off)_45: -1362221106
+      IoTs (off)_46: 1132713704
+      IoTs (off)_47: 469230091
+      IoTs (off)_48: -41978511
+      IoTs (off)_49: -2136870794
+      IoTs (off)_5: 1944438167
+      IoTs (off)_50: -1535284652
+      IoTs (off)_51: 1850737841
+      IoTs (off)_52: 1583437512
+      IoTs (off)_53: 362339143
+      IoTs (off)_54: 544013952
+      IoTs (off)_55: -1455282708
+      IoTs (off)_56: -931542311
+      IoTs (off)_57: -1102882896
+      IoTs (off)_58: -1559070426
+      IoTs (off)_59: -241298453
+      IoTs (off)_6: -1342143218
+      IoTs (off)_60: 1546615694
+      IoTs (off)_61: 1588286405
+      IoTs (off)_62: 1159540326
+      IoTs (off)_63: -1009302716
+      IoTs (off)_64: -1338997788
+      IoTs (off)_65: -1817200003
+      IoTs (off)_66: -607538956
+      IoTs (off)_67: 508864161
+      IoTs (off)_7: 340901632
+      IoTs (off)_8: 1062895968
+      IoTs (off)_9: -684451638
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

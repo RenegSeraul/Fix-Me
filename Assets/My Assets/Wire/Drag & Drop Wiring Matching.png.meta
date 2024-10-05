@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: b533e8793ad7cf348b2471fbcd060d3c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Drag & Drop Wiring Matching_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -80}
+        - {x: 64, y: 0}
+        - {x: 0, y: 80}
+        - {x: -64, y: 0}
+      physicsShape:
+      - - {x: 0, y: -80}
+        - {x: 64, y: 0}
+        - {x: 0, y: 80}
+        - {x: -64, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13044edd407d91e468a1c422484a442a
+      internalID: 880215107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drag & Drop Wiring Matching_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -80}
+        - {x: 64, y: 0}
+        - {x: 0, y: 80}
+        - {x: -64, y: 0}
+      physicsShape:
+      - - {x: 0, y: -80}
+        - {x: 64, y: 0}
+        - {x: 0, y: 80}
+        - {x: -64, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b2d2532f42b5e479361cc0cd0f763e
+      internalID: 1441044758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drag & Drop Wiring Matching_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -80}
+        - {x: 64, y: 0}
+        - {x: 0, y: 80}
+        - {x: -64, y: 0}
+      physicsShape:
+      - - {x: 0, y: -80}
+        - {x: 64, y: 0}
+        - {x: 0, y: 80}
+        - {x: -64, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0b9792ce370094aac2cc1616c55674
+      internalID: 662972782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drag & Drop Wiring Matching_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -80}
+        - {x: 64, y: 0}
+        - {x: 0, y: 80}
+        - {x: -64, y: 0}
+      physicsShape:
+      - - {x: 0, y: -80}
+        - {x: 64, y: 0}
+        - {x: 0, y: 80}
+        - {x: -64, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa4b6ff89b919943863c7fcd09c5be1
+      internalID: -1781383530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drag & Drop Wiring Matching_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -80}
+        - {x: 64, y: 0}
+        - {x: 0, y: 80}
+        - {x: -64, y: 0}
+      physicsShape:
+      - - {x: 0, y: -80}
+        - {x: 64, y: 0}
+        - {x: 0, y: 80}
+        - {x: -64, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e28a0ec30b90942849ae399a8f171e
+      internalID: -97583091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drag & Drop Wiring Matching_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -80}
+        - {x: 64, y: 0}
+        - {x: 0, y: 80}
+        - {x: -64, y: 0}
+      physicsShape:
+      - - {x: 0, y: -80}
+        - {x: 64, y: 0}
+        - {x: 0, y: 80}
+        - {x: -64, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb18b2cb386886428e675318d68bf7e
+      internalID: -1643961079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drag & Drop Wiring Matching_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -80}
+        - {x: 64, y: 0}
+        - {x: 0, y: 80}
+        - {x: -64, y: 0}
+      physicsShape:
+      - - {x: 0, y: -80}
+        - {x: 64, y: 0}
+        - {x: 0, y: 80}
+        - {x: -64, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c082fa819ae70094c8ec93013f7b0d69
+      internalID: 1183980266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drag & Drop Wiring Matching_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -80}
+        - {x: 64, y: 0}
+        - {x: 0, y: 80}
+        - {x: -64, y: 0}
+      physicsShape:
+      - - {x: 0, y: -80}
+        - {x: 64, y: 0}
+        - {x: 0, y: 80}
+        - {x: -64, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be88db049a03584d9fe6dbfb874fd50
+      internalID: 1904856062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drag & Drop Wiring Matching_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -80}
+        - {x: 64, y: 0}
+        - {x: 0, y: 80}
+        - {x: -64, y: 0}
+      physicsShape:
+      - - {x: 0, y: -80}
+        - {x: 64, y: 0}
+        - {x: 0, y: 80}
+        - {x: -64, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2597040d5f006614b81310b4ee532328
+      internalID: -1684029034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Drag & Drop Wiring Matching_0: 880215107
+      Drag & Drop Wiring Matching_1: 1441044758
+      Drag & Drop Wiring Matching_2: 662972782
+      Drag & Drop Wiring Matching_3: -1781383530
+      Drag & Drop Wiring Matching_4: -97583091
+      Drag & Drop Wiring Matching_5: -1643961079
+      Drag & Drop Wiring Matching_6: 1183980266
+      Drag & Drop Wiring Matching_7: 1904856062
+      Drag & Drop Wiring Matching_8: -1684029034
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
