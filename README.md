@@ -1,8 +1,15 @@
 <h1 align="center">-- Helo! --</h1>
 <h3 align="center">Aye</h3>
 
-- No Changes **yet** *(later on I'll update)*
+- Added the **DialogueOut** on Level 3 scene.
 
+- Changed **movement input** to the robust **"input system"**.
+
+- Tidied up the **designs** a bit inside **Main** scene with **extra buttons**!
+
+- Turned the **"Player"** into a **prefab** for future **customization**
+
+- Not implemented a connection to Firebase as of yet!
 
 
 <h3 align="center">-- Link --</h3>
