@@ -9,10 +9,10 @@
 
 - Turned the **"Player"** into a **prefab** for future **customization**
 
-- Not implemented a connection to Firebase as of yet!
+- No connection so it will be playable offline!
 
 --**Latest Changes**--
-- The game now totally runs Level 1 - 3
+- Added Level 1 - 3
 
 - Resolutions now **adjusts** according to **mobile** or **PC** screens
 
