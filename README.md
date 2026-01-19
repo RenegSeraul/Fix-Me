@@ -39,7 +39,7 @@
 <p align="center">N\A</h3>
 
 
-<h3">-- Game Developed By --</h3>
+<h3>-- Game Developed By --</h3>
 - Tristan
 - Luares
 
